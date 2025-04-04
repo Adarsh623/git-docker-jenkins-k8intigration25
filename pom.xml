@@ -57,7 +57,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>devops-integration</finalName>
+		<finalName>git-docker-jenkins-k8intigration25</finalName>
 	</build>
 
 </project>
