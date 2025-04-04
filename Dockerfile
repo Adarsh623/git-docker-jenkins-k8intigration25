@@ -1,4 +1,4 @@
 FROM openjdk:8
 EXPOSE 8080
-ADD target/devops-integration.jar devops-integration.jar
-ENTRYPOINT ["java","-jar","/devops-integration.jar"]
+ADD target/git-docker-jenkins-k8intigration25.jar git-docker-jenkins-k8intigration25.jar
+ENTRYPOINT ["java","-jar","/git-docker-jenkins-k8intigration25"]
